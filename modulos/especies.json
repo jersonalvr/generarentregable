@@ -1,0 +1,2059 @@
+{
+  "especies": [
+    {
+      "por_nombres_comunes": "AGUJA, WAHOO, AGUJILLA, PETO, BARRACUDA",
+      "por_nombre_cientifico": "Acanthocybium solandri",
+      "por_tipo": "PESCADOS"
+    },
+    {
+      "por_nombres_comunes": "AGUJILLA, PICUDA, BARRACUDA, AGUJILLA BLANCA",
+      "por_nombre_cientifico": "Sphyraena idiastes",
+      "por_tipo": "PESCADOS"
+    },
+    {
+      "por_nombres_comunes": "ARACANTO",
+      "por_nombre_cientifico": "Lessonia spp.",
+      "por_tipo": "ESPECIES"
+    },
+    {
+      "por_nombres_comunes": "ALBACORA, ATÚN DE ALETA LARGA",
+      "por_nombre_cientifico": "Thunnus alalunga",
+      "por_tipo": "PESCADOS"
+    },
+    {
+      "por_nombres_comunes": "ALGA FLOR",
+      "por_nombre_cientifico": "Chondrus canaliculatus",
+      "por_tipo": "ESPECIES"
+    },
+    {
+      "por_nombres_comunes": "ALMEJA",
+      "por_nombre_cientifico": "Gari solida",
+      "por_tipo": "PESCADOS"
+    },
+    {
+      "por_nombres_comunes": "ALMEJA",
+      "por_nombre_cientifico": "Leukoma thaca",
+      "por_tipo": "PESCADOS"
+    },
+    {
+      "por_nombres_comunes": "ALMEJA",
+      "por_nombre_cientifico": "Semele corrugata",
+      "por_tipo": "PESCADOS"
+    },
+    {
+      "por_nombres_comunes": "ANCHOA",
+      "por_nombre_cientifico": "Anchoa sp.",
+      "por_tipo": "PESCADOS"
+    },
+    {
+      "por_nombres_comunes": "ANCHOVETA, PELADILLA",
+      "por_nombre_cientifico": "Engraulis ringens",
+      "por_tipo": "PESCADOS"
+    },
+    {
+      "por_nombres_comunes": "ANGELOTE, PEZ ANGEL",
+      "por_nombre_cientifico": "Squatina californica",
+      "por_tipo": "PESCADOS"
+    },
+    {
+      "por_nombres_comunes": "ANGUILA COMÚN, CULEBRA DE MAR",
+      "por_nombre_cientifico": "Ophichthus remiger",
+      "por_tipo": "PESCADOS"
+    },
+    {
+      "por_nombres_comunes": "ANGUILA CON MANCHAS",
+      "por_nombre_cientifico": "Ophichthus triserialis",
+      "por_tipo": "PESCADOS"
+    },
+    {
+      "por_nombres_comunes": "ARACANTO NEGRO, SARGAZO",
+      "por_nombre_cientifico": "Lessonia nigrescens",
+      "por_tipo": "ESPECIES"
+    },
+    {
+      "por_nombres_comunes": "ARACANTO PALO",
+      "por_nombre_cientifico": "Lessonia trabeculata",
+      "por_tipo": "ESPECIES"
+    },
+    {
+      "por_nombres_comunes": "ARGENTINA",
+      "por_nombre_cientifico": "Argentina aliceae",
+      "por_tipo": "PESCADOS"
+    },
+    {
+      "por_nombres_comunes": "ARGONAUTA",
+      "por_nombre_cientifico": "Argonauta sp",
+      "por_tipo": "PESCADOS"
+    },
+    {
+      "por_nombres_comunes": "ATÚN CHAUCHERO",
+      "por_nombre_cientifico": "Gasterochisma melampus",
+      "por_tipo": "PESCADOS"
+    },
+    {
+      "por_nombres_comunes": "ATÚN DE ALETA AMARILLA, ALBACORA",
+      "por_nombre_cientifico": "Thunnus albacares",
+      "por_tipo": "PESCADOS"
+    },
+    {
+      "por_nombres_comunes": "ATÚN DE ALETA AZUL",
+      "por_nombre_cientifico": "Thunnus orientalis",
+      "por_tipo": "PESCADOS"
+    },
+    {
+      "por_nombres_comunes": "ATÚN DE OJO GRANDE",
+      "por_nombre_cientifico": "Thunnus obesus",
+      "por_tipo": "PESCADOS"
+    },
+    {
+      "por_nombres_comunes": "AYAMARCA",
+      "por_nombre_cientifico": "Cetengraulis mysticetus",
+      "por_tipo": "PESCADOS"
+    },
+    {
+      "por_nombres_comunes": "AYANQUE, CACHEMA",
+      "por_nombre_cientifico": "Cynoscion analis",
+      "por_tipo": "PESCADOS"
+    },
+    {
+      "por_nombres_comunes": "AYANQUE, CACHEMA (NORTE)",
+      "por_nombre_cientifico": "Isopisthus remifer",
+      "por_tipo": "PESCADOS"
+    },
+    {
+      "por_nombres_comunes": "BABOSA, CARACOL BABOSA",
+      "por_nombre_cientifico": "Sinum cymba",
+      "por_tipo": "MARISCOS"
+    },
+    {
+      "por_nombres_comunes": "BABUNCO, GALLINAZO",
+      "por_nombre_cientifico": "Girella laevifrons",
+      "por_tipo": "PESCADOS"
+    },
+    {
+      "por_nombres_comunes": "BACALAO DE PROFUNDIDAD",
+      "por_nombre_cientifico": "Dissostichus eleginoides",
+      "por_tipo": "PESCADOS"
+    },
+    {
+      "por_nombres_comunes": "BAGRE CON FAJA",
+      "por_nombre_cientifico": "Galeichthys peruvianus",
+      "por_tipo": "PESCADOS"
+    },
+    {
+      "por_nombres_comunes": "BAGRE BLANCO,BAGRE NORTEÑO, CHIHUIL, PEZ GATO",
+      "por_nombre_cientifico": "Bagre panamensis",
+      "por_tipo": "PESCADOS"
+    },
+    {
+      "por_nombres_comunes": "BAGRE ROJO, BAGRE PEPE",
+      "por_nombre_cientifico": "Bagre pinnimaculatus",
+      "por_tipo": "PESCADOS"
+    },
+    {
+      "por_nombres_comunes": "BARBUDO AMARILLO",
+      "por_nombre_cientifico": "Polydactylus opercularis",
+      "por_tipo": "PESCADOS"
+    },
+    {
+      "por_nombres_comunes": "BARBUDO, PIÑARRO",
+      "por_nombre_cientifico": "Polydactylus approximans",
+      "por_tipo": "PESCADOS"
+    },
+    {
+      "por_nombres_comunes": "BARQUILLO",
+      "por_nombre_cientifico": "Acanthopleura echinata",
+      "por_tipo": "PESCADOS"
+    },
+    {
+      "por_nombres_comunes": "BARRACUDA, PICUDA, AGUILLA",
+      "por_nombre_cientifico": "Sphyraena ensis",
+      "por_tipo": "PESCADOS"
+    },
+    {
+      "por_nombres_comunes": "BARRACUDINA",
+      "por_nombre_cientifico": "Scopelosaurus sp",
+      "por_tipo": "PESCADOS"
+    },
+    {
+      "por_nombres_comunes": "BARRILETE NEGRO, BARRILETE PERLA",
+      "por_nombre_cientifico": "Euthynnus lineatus",
+      "por_tipo": "PESCADOS"
+    },
+    {
+      "por_nombres_comunes": "BARRILETE NEGRO, TAMBORIN, MELVA, FRAGATA, BOTELLITA",
+      "por_nombre_cientifico": "Auxis rochei",
+      "por_tipo": "PESCADOS"
+    },
+    {
+      "por_nombres_comunes": "BARRILETE, BONITO, RAYADO",
+      "por_nombre_cientifico": "Katsuwonus pelamis",
+      "por_tipo": "PESCADOS"
+    },
+    {
+      "por_nombres_comunes": "BASHA, RAYA HOCICO DE VACA",
+      "por_nombre_cientifico": "Rhinoptera steindachneri",
+      "por_tipo": "PESCADOS"
+    },
+    {
+      "por_nombres_comunes": "BERECHE",
+      "por_nombre_cientifico": "Larimus pacificus",
+      "por_tipo": "PESCADOS"
+    },
+    {
+      "por_nombres_comunes": "BERRUGATA, VIUDA, VIEJA",
+      "por_nombre_cientifico": "Lobotes pacificus",
+      "por_tipo": "PESCADOS"
+    },
+    {
+      "por_nombres_comunes": "BIO-BIO, CONGRIO CULEBRA",
+      "por_nombre_cientifico": "Cynoponticus coniceps",
+      "por_tipo": "PESCADOS"
+    },
+    {
+      "por_nombres_comunes": "BOCADULCE, SALEMA",
+      "por_nombre_cientifico": "Kyphosus analogus",
+      "por_tipo": "PESCADOS"
+    },
+    {
+      "por_nombres_comunes": "BONITO, CHAUCHILLA, CERRAJON",
+      "por_nombre_cientifico": "Sarda chiliensis chiliensis",
+      "por_tipo": "PESCADOS"
+    },
+    {
+      "por_nombres_comunes": "BORRACHO, SUEÑO",
+      "por_nombre_cientifico": "Scartichthys gigas",
+      "por_tipo": "PESCADOS"
+    },
+    {
+      "por_nombres_comunes": "BREGMACERO",
+      "por_nombre_cientifico": "Bregmaceros bathymaster",
+      "por_tipo": "PESCADOS"
+    },
+    {
+      "por_nombres_comunes": "BROTULA",
+      "por_nombre_cientifico": "Cataetyx sp",
+      "por_tipo": "PESCADOS"
+    },
+    {
+      "por_nombres_comunes": "BUFEO, NARIZ DE BOTELLA, DELFIN MULAR",
+      "por_nombre_cientifico": "Tursiops truncatus",
+      "por_tipo": "PESCADOS"
+    },
+    {
+      "por_nombres_comunes": "BURRO, ARNILLO, CARACHA, GALLINAZO",
+      "por_nombre_cientifico": "Cheilotrema fasciatum",
+      "por_tipo": "PESCADOS"
+    },
+    {
+      "por_nombres_comunes": "CABALLA, VERLE, MACARELA, CABALLETA",
+      "por_nombre_cientifico": "Scomber japonicus",
+      "por_tipo": "PESCADOS"
+    },
+    {
+      "por_nombres_comunes": "CABALLITO DE MAR",
+      "por_nombre_cientifico": "Hippocampus ingens",
+      "por_tipo": "PESCADOS"
+    },
+    {
+      "por_nombres_comunes": "CABEZA DURA, CHIVILICO, RONCADOR",
+      "por_nombre_cientifico": "Haemulon steindachneri",
+      "por_tipo": "PESCADOS"
+    },
+    {
+      "por_nombres_comunes": "CABINZA",
+      "por_nombre_cientifico": "Isacia conceptionis",
+      "por_tipo": "PESCADOS"
+    },
+    {
+      "por_nombres_comunes": "CABINZA SERRANIDA, INDIO",
+      "por_nombre_cientifico": "Paranthias colonus",
+      "por_tipo": "PESCADOS"
+    },
+    {
+      "por_nombres_comunes": "CABRILLA PERELA, CABRILLA FINA",
+      "por_nombre_cientifico": "Paralabrax callaensis",
+      "por_tipo": "PESCADOS"
+    },
+    {
+      "por_nombres_comunes": "CABRILLA, CAGÁLO, BAGALO, CABRILLA COMUN, MUÑA",
+      "por_nombre_cientifico": "Paralabrax humeralis",
+      "por_tipo": "PESCADOS"
+    },
+    {
+      "por_nombres_comunes": "CALAMAR",
+      "por_nombre_cientifico": "Doryteuthis (Amerigo) gahi",
+      "por_tipo": "MARISCOS"
+    },
+    {
+      "por_nombres_comunes": "CALAMAR DEDAL, CALAMAR BLANCO",
+      "por_nombre_cientifico": "Lolliguncula panamensis",
+      "por_tipo": "MARISCOS"
+    },
+    {
+      "por_nombres_comunes": "CALAMAR ENANO",
+      "por_nombre_cientifico": "Lolliguncula spp",
+      "por_tipo": "MARISCOS"
+    },
+    {
+      "por_nombres_comunes": "CALAMAR OCEANICO",
+      "por_nombre_cientifico": "Abrialopsis sp.",
+      "por_tipo": "MARISCOS"
+    },
+    {
+      "por_nombres_comunes": "CALAMAR PITILLO, CALAMAR DARDO, CALAMAR",
+      "por_nombre_cientifico": "Lolliguncula (Loliolopsis) diomedeae",
+      "por_tipo": "MARISCOS"
+    },
+    {
+      "por_nombres_comunes": "CAMARON ROJO, MÚNIDA",
+      "por_nombre_cientifico": "Pleuroncodes monodon",
+      "por_tipo": "MARISCOS"
+    },
+    {
+      "por_nombres_comunes": "CAMARON TITI",
+      "por_nombre_cientifico": "Xiphopenaeus kroyeri",
+      "por_tipo": "MARISCOS"
+    },
+    {
+      "por_nombres_comunes": "CAMISETA, MARIPOSA, COMETA, PEZ ASADA",
+      "por_nombre_cientifico": "Chaetodipterus zonatus",
+      "por_tipo": "PESCADOS"
+    },
+    {
+      "por_nombres_comunes": "CAMOTE, BACALAO, ROLLIZO, CANGURO",
+      "por_nombre_cientifico": "Mugiloides chilensis",
+      "por_tipo": "PESCADOS"
+    },
+    {
+      "por_nombres_comunes": "CARAJITO, POLLITO, MARAÑO, CAMOTE, CAMOTILLO",
+      "por_nombre_cientifico": "Diplectrum conceptione",
+      "por_tipo": "PESCADOS"
+    },
+    {
+      "por_nombres_comunes": "CAMOTILLO",
+      "por_nombre_cientifico": "Diplectrum maximum",
+      "por_tipo": "PESCADOS"
+    },
+    {
+      "por_nombres_comunes": "CAMOTILLO",
+      "por_nombre_cientifico": "Normanichthys crockeri",
+      "por_tipo": "PESCADOS"
+    },
+    {
+      "por_nombres_comunes": "CAMOTILLO, CARAJITO",
+      "por_nombre_cientifico": "Diplectrum pacificum",
+      "por_tipo": "PESCADOS"
+    },
+    {
+      "por_nombres_comunes": "CANGREJO",
+      "por_nombre_cientifico": "Cancer sp., Platyxanthus sp.",
+      "por_tipo": "MARISCOS"
+    },
+    {
+      "por_nombres_comunes": "CANGREJO ARAÑA",
+      "por_nombre_cientifico": "Maiopsis panamensis",
+      "por_tipo": "MARISCOS"
+    },
+    {
+      "por_nombres_comunes": "CANGREJO CAMOTE, JAIBA MORA, CANGREJO DE FANGO",
+      "por_nombre_cientifico": "Homalapsis plana",
+      "por_tipo": "MARISCOS"
+    },
+    {
+      "por_nombres_comunes": "CANGREJO COCKERI",
+      "por_nombre_cientifico": "Peloeus armatus",
+      "por_tipo": "MARISCOS"
+    },
+    {
+      "por_nombres_comunes": "CANGREJO MANGLAR",
+      "por_nombre_cientifico": "Ucides occidentalis",
+      "por_tipo": "MARISCOS"
+    },
+    {
+      "por_nombres_comunes": "CANGREJO NADADOR, JAIVA MORADA",
+      "por_nombre_cientifico": "Euphylax robustus",
+      "por_tipo": "MARISCOS"
+    },
+    {
+      "por_nombres_comunes": "CANGREJO NADADOR, JAIVA, GARRAPIÑA",
+      "por_nombre_cientifico": "Euphylax dovii",
+      "por_tipo": "MARISCOS"
+    },
+    {
+      "por_nombres_comunes": "CANGREJO PELUDO",
+      "por_nombre_cientifico": "Romaleon setosum",
+      "por_tipo": "MARISCOS"
+    },
+    {
+      "por_nombres_comunes": "CANGREJO POPEYE",
+      "por_nombre_cientifico": "Menippe frontalis",
+      "por_tipo": "MARISCOS"
+    },
+    {
+      "por_nombres_comunes": "CANGREJO PUÑETE",
+      "por_nombre_cientifico": "Calappa convexa",
+      "por_tipo": "MARISCOS"
+    },
+    {
+      "por_nombres_comunes": "CANGREJO VIOLACEO",
+      "por_nombre_cientifico": "Platyxanthus orbignyi",
+      "por_tipo": "MARISCOS"
+    },
+    {
+      "por_nombres_comunes": "CARACOL BLANCO",
+      "por_nombre_cientifico": "Polinices uber",
+      "por_tipo": "MARISCOS"
+    },
+    {
+      "por_nombres_comunes": "CARACOL BOLA",
+      "por_nombre_cientifico": "Malea ringens",
+      "por_tipo": "MARISCOS"
+    },
+    {
+      "por_nombres_comunes": "CARACOL COCO",
+      "por_nombre_cientifico": "Melongena patula",
+      "por_tipo": "MARISCOS"
+    },
+    {
+      "por_nombres_comunes": "CARACOL CONUS",
+      "por_nombre_cientifico": "Conus patrici us",
+      "por_tipo": "MARISCOS"
+    },
+    {
+      "por_nombres_comunes": "CARACOL DOS PUNTAS, CARACOL FRESA, CARACOL CEREZO",
+      "por_nombre_cientifico": "Fusinus dupetitthouarsi",
+      "por_tipo": "MARISCOS"
+    },
+    {
+      "por_nombres_comunes": "CARACOL GRINGO",
+      "por_nombre_cientifico": "Plicopurpura columellaris",
+      "por_tipo": "MARISCOS"
+    },
+    {
+      "por_nombres_comunes": "CARACOL PELUDO",
+      "por_nombre_cientifico": "Cymatium (L) wiegmanni, C.pileare",
+      "por_tipo": "MARISCOS"
+    },
+    {
+      "por_nombres_comunes": "CARACOL PIÑA",
+      "por_nombre_cientifico": "Hexaplex brassica",
+      "por_tipo": "MARISCOS"
+    },
+    {
+      "por_nombres_comunes": "CARACOL POLLUDO",
+      "por_nombre_cientifico": "Hexaplex spp.",
+      "por_tipo": "MARISCOS"
+    },
+    {
+      "por_nombres_comunes": "CARACOL RAYADO",
+      "por_nombre_cientifico": "Marsupina nana",
+      "por_tipo": "MARISCOS"
+    },
+    {
+      "por_nombres_comunes": "CARACOL REPOLLO",
+      "por_nombre_cientifico": "Hexaplex regius",
+      "por_tipo": "MARISCOS"
+    },
+    {
+      "por_nombres_comunes": "CARACOL ROSADO,CARACOL CHINO,BURZA",
+      "por_nombre_cientifico": "Crossata ventricosa",
+      "por_tipo": "MARISCOS"
+    },
+    {
+      "por_nombres_comunes": "CARACOL RUSO",
+      "por_nombre_cientifico": "Stramonita haemastoma",
+      "por_tipo": "MARISCOS"
+    },
+    {
+      "por_nombres_comunes": "CARACOL NEGRO, CARACOL",
+      "por_nombre_cientifico": "Thaisella chocolata",
+      "por_tipo": "MARISCOS"
+    },
+    {
+      "por_nombres_comunes": "CARAJITO",
+      "por_nombre_cientifico": "Serranus spp.",
+      "por_tipo": "PESCADOS"
+    },
+    {
+      "por_nombres_comunes": "CARAPACHUDO, DONCELLITA",
+      "por_nombre_cientifico": "Pronotogrammus multifasciatus",
+      "por_tipo": "PESCADOS"
+    },
+    {
+      "por_nombres_comunes": "CASTAÑETA MANCHADA",
+      "por_nombre_cientifico": "Abudefduf troschelii",
+      "por_tipo": "PESCADOS"
+    },
+    {
+      "por_nombres_comunes": "CASTAÑUELA",
+      "por_nombre_cientifico": "Chromis atrilobata",
+      "por_tipo": "PESCADOS"
+    },
+    {
+      "por_nombres_comunes": "CASTAÑUELA, CASTAÑETA, CASTAÑETA MANCHADA",
+      "por_nombre_cientifico": "Chromis crusma",
+      "por_tipo": "PESCADOS"
+    },
+    {
+      "por_nombres_comunes": "CAZÓN CHILENO, CAZÓN DE ALETA",
+      "por_nombre_cientifico": "Galeorhinus galeus",
+      "por_tipo": "PESCADOS"
+    },
+    {
+      "por_nombres_comunes": "CAZÓN MANTEQUERO",
+      "por_nombre_cientifico": "Carcharhinus porosus",
+      "por_tipo": "PESCADOS"
+    },
+    {
+      "por_nombres_comunes": "CAZÓN PICOBLANDO",
+      "por_nombre_cientifico": "Nasolamia velox",
+      "por_tipo": "PESCADOS"
+    },
+    {
+      "por_nombres_comunes": "CAZÓN VIDRIO",
+      "por_nombre_cientifico": "Rhizoprionodon longurio",
+      "por_tipo": "PESCADOS"
+    },
+    {
+      "por_nombres_comunes": "CAZÓN, TIBURÓN, CAZÓN CHILENO",
+      "por_nombre_cientifico": "Carcharhinus sp.",
+      "por_tipo": "PESCADOS"
+    },
+    {
+      "por_nombres_comunes": "CENTOLLA",
+      "por_nombre_cientifico": "Lithodes sp.",
+      "por_tipo": "PESCADOS"
+    },
+    {
+      "por_nombres_comunes": "CENTOLLA",
+      "por_nombre_cientifico": "Paralomis longipes",
+      "por_tipo": "PESCADOS"
+    },
+    {
+      "por_nombres_comunes": "CHALACO, TRAMBOLLO",
+      "por_nombre_cientifico": "Auchenionchus microcirrhis",
+      "por_tipo": "PESCADOS"
+    },
+    {
+      "por_nombres_comunes": "CHAMACO, CHANCHARRO",
+      "por_nombre_cientifico": "Sebastes capensis",
+      "por_tipo": "PESCADOS"
+    },
+    {
+      "por_nombres_comunes": "CHANCHO MARINO",
+      "por_nombre_cientifico": "Lagenorhynchus obscurus",
+      "por_tipo": "PESCADOS"
+    },
+    {
+      "por_nombres_comunes": "ABALÓN, CHANQUE, TOLINA, PATA DE BURRO",
+      "por_nombre_cientifico": "Concholepas concholepas",
+      "por_tipo": "PESCADOS"
+    },
+    {
+      "por_nombres_comunes": "CHAPARRA, MOJARRA",
+      "por_nombre_cientifico": "Eucinostomus sp. A.",
+      "por_tipo": "PESCADOS"
+    },
+    {
+      "por_nombres_comunes": "CHAQUETA DE CUERO, PAJARITO",
+      "por_nombre_cientifico": "Oligoplites refulgens",
+      "por_tipo": "PESCADOS"
+    },
+    {
+      "por_nombres_comunes": "CHAVELA, MOJARRA, MOJARRA BLANCA",
+      "por_nombre_cientifico": "Gerres cinereus",
+      "por_tipo": "PESCADOS"
+    },
+    {
+      "por_nombres_comunes": "CHAVELITA, CASTAÑUELA, CHAVELO",
+      "por_nombre_cientifico": "Chromis intercrusma",
+      "por_tipo": "PESCADOS"
+    },
+    {
+      "por_nombres_comunes": "CHERLO, CALATO, CHOROMELO, CHANCHORRO",
+      "por_nombre_cientifico": "Acanthistius pictus",
+      "por_tipo": "PESCADOS"
+    },
+    {
+      "por_nombres_comunes": "CHINA, MOJARRA CIEGA, CAMOTILLO",
+      "por_nombre_cientifico": "Nebris sp",
+      "por_tipo": "PESCADOS"
+    },
+    {
+      "por_nombres_comunes": "CHIRI LOMO NEGRO, PALOMETA",
+      "por_nombre_cientifico": "Peprilus snyderi",
+      "por_tipo": "PESCADOS"
+    },
+    {
+      "por_nombres_comunes": "CHIRI, PALOMETA, COMETRAPO, PAMPANO",
+      "por_nombre_cientifico": "Peprilus medius",
+      "por_tipo": "PESCADOS"
+    },
+    {
+      "por_nombres_comunes": "CHITA BURRA, CHITA DORADA",
+      "por_nombre_cientifico": "Anisotremus interruptus",
+      "por_tipo": "PESCADOS"
+    },
+    {
+      "por_nombres_comunes": "CHITA, SARGO DEL SUR",
+      "por_nombre_cientifico": "Anisotremus scapularis",
+      "por_tipo": "PESCADOS"
+    },
+    {
+      "por_nombres_comunes": "CHOCHOCA, BERECHITO MANCHADO",
+      "por_nombre_cientifico": "Ctenosciaena peruviana",
+      "por_tipo": "PESCADOS"
+    },
+    {
+      "por_nombres_comunes": "CHOCHOQUE",
+      "por_nombre_cientifico": "Stellifer pizarroensis",
+      "por_tipo": "PESCADOS"
+    },
+    {
+      "por_nombres_comunes": "CHORO,CHOLGA,MEJILLÓN",
+      "por_nombre_cientifico": "Aulacomya atra",
+      "por_tipo": "MARISCOS"
+    },
+    {
+      "por_nombres_comunes": "CHOLGA, CHORO ZAPATO",
+      "por_nombre_cientifico": "Choromytilus chorus",
+      "por_tipo": "MARISCOS"
+    },
+    {
+      "por_nombres_comunes": "CHORO, MEJILLÓN",
+      "por_nombre_cientifico": "Mytella guyanensis",
+      "por_tipo": "MARISCOS"
+    },
+    {
+      "por_nombres_comunes": "CHORO, MEJILLÓN CABALLO",
+      "por_nombre_cientifico": "Modiolus capax",
+      "por_tipo": "MARISCOS"
+    },
+    {
+      "por_nombres_comunes": "CHUITA",
+      "por_nombre_cientifico": "Phalacrocorax gaimardi",
+      "por_tipo": "PESCADOS"
+    },
+    {
+      "por_nombres_comunes": "CHULA, MISHO, VIÑA, SEÑORITA",
+      "por_nombre_cientifico": "Menticirrhus paitensis",
+      "por_tipo": "PESCADOS"
+    },
+    {
+      "por_nombres_comunes": "CHUMBO, COCINERO",
+      "por_nombre_cientifico": "Caranx hippos",
+      "por_tipo": "PESCADOS"
+    },
+    {
+      "por_nombres_comunes": "COCHAYUYO",
+      "por_nombre_cientifico": "Porphyra columbina",
+      "por_tipo": "ESPECIES"
+    },
+    {
+      "por_nombres_comunes": "COCHE, PEJE CHANCHO, CHUCUTURULA, PEZ GATILLO",
+      "por_nombre_cientifico": "Balistes polylepis",
+      "por_tipo": "PESCADOS"
+    },
+    {
+      "por_nombres_comunes": "COCHI",
+      "por_nombre_cientifico": "Sufflamen verres",
+      "por_tipo": "PESCADOS"
+    },
+    {
+      "por_nombres_comunes": "COCINERO, CHIRI, COCINERO ÑATO",
+      "por_nombre_cientifico": "Hemicaranx zelotes",
+      "por_tipo": "PESCADOS"
+    },
+    {
+      "por_nombres_comunes": "COCINERO, CHUMBO, JUREL DEL NORTE",
+      "por_nombre_cientifico": "Caranx caballus",
+      "por_tipo": "PESCADOS"
+    },
+    {
+      "por_nombres_comunes": "COCO RAYADO, SUCO, RONCADOR",
+      "por_nombre_cientifico": "Paralonchurus dumerlii",
+      "por_tipo": "PESCADOS"
+    },
+    {
+      "por_nombres_comunes": "COCO, SUCO, RONCADOR",
+      "por_nombre_cientifico": "Paralonchurus peruanus",
+      "por_tipo": "PESCADOS"
+    },
+    {
+      "por_nombres_comunes": "COJINOBA MOCOSA, MUCOSA",
+      "por_nombre_cientifico": "Schedophilus haedrichi",
+      "por_tipo": "PESCADOS"
+    },
+    {
+      "por_nombres_comunes": "COJINOBA, PALMERA, PALMERITA",
+      "por_nombre_cientifico": "Seriolella violacea",
+      "por_tipo": "PESCADOS"
+    },
+    {
+      "por_nombres_comunes": "CONCHA BLANCA, PALABRITA, MARUCHA",
+      "por_nombre_cientifico": "Donax obesulus",
+      "por_tipo": "MARISCOS"
+    },
+    {
+      "por_nombres_comunes": "CONCHA CORAZON",
+      "por_nombre_cientifico": "Trachycardium procerum",
+      "por_tipo": "MARISCOS"
+    },
+    {
+      "por_nombres_comunes": "CONCHA DE ABANICO",
+      "por_nombre_cientifico": "Argopecten purpuratus",
+      "por_tipo": "MARISCOS"
+    },
+    {
+      "por_nombres_comunes": "CONCHA DE ABANICO PANAMEÑA",
+      "por_nombre_cientifico": "Argopecten circularis",
+      "por_tipo": "MARISCOS"
+    },
+    {
+      "por_nombres_comunes": "CONCHA HUEQUERA",
+      "por_nombre_cientifico": "Anadara similis",
+      "por_tipo": "MARISCOS"
+    },
+    {
+      "por_nombres_comunes": "CONCHA NEGRA",
+      "por_nombre_cientifico": "Anadara tuberculosa",
+      "por_tipo": "MARISCOS"
+    },
+    {
+      "por_nombres_comunes": "CONCHA PALA",
+      "por_nombre_cientifico": "Atrina maura",
+      "por_tipo": "MARISCOS"
+    },
+    {
+      "por_nombres_comunes": "CONCHA PATA DE BURRO",
+      "por_nombre_cientifico": "Larkinia grandis",
+      "por_tipo": "MARISCOS"
+    },
+    {
+      "por_nombres_comunes": "CONCHA PERLERA",
+      "por_nombre_cientifico": "Pteria sterna",
+      "por_tipo": "MARISCOS"
+    },
+    {
+      "por_nombres_comunes": "CONCHA PINTADA, VONGOLE, PIOJOSA",
+      "por_nombre_cientifico": "Transennella pannosa",
+      "por_tipo": "MARISCOS"
+    },
+    {
+      "por_nombres_comunes": "CONCHA RAYADA",
+      "por_nombre_cientifico": "Chione subrugosa",
+      "por_tipo": "MARISCOS"
+    },
+    {
+      "por_nombres_comunes": "CONGRIO CHILINDRINA, CONGRIO PINTADO, CONGRIO COLORADO",
+      "por_nombre_cientifico": "Brotula ordwayi",
+      "por_tipo": "PESCADOS"
+    },
+    {
+      "por_nombres_comunes": "CONGRIO GATO",
+      "por_nombre_cientifico": "Lepophidium negropinna",
+      "por_tipo": "PESCADOS"
+    },
+    {
+      "por_nombres_comunes": "CONGRIO MANCHADO, CONGRIO PINTADO, CONGRIO NEGRO",
+      "por_nombre_cientifico": "Genypterus maculatus",
+      "por_tipo": "PESCADOS"
+    },
+    {
+      "por_nombres_comunes": "CONGRIO ROSADO, CONGRIO ROJO",
+      "por_nombre_cientifico": "Brotula clarkae",
+      "por_tipo": "PESCADOS"
+    },
+    {
+      "por_nombres_comunes": "CORCOVADO, CALLANA",
+      "por_nombre_cientifico": "Orthopristis chalceus",
+      "por_tipo": "PESCADOS"
+    },
+    {
+      "por_nombres_comunes": "CORVINA CHERELA, CHARELA",
+      "por_nombre_cientifico": "Cynoscion phoxocephalus",
+      "por_tipo": "PESCADOS"
+    },
+    {
+      "por_nombres_comunes": "CORVINA DORADA, GUAVINA",
+      "por_nombre_cientifico": "Micropogonias altipinnis",
+      "por_tipo": "PESCADOS"
+    },
+    {
+      "por_nombres_comunes": "CORVINA, CORVINILLA",
+      "por_nombre_cientifico": "Cilus gilberti",
+      "por_tipo": "PESCADOS"
+    },
+    {
+      "por_nombres_comunes": "CURACA, CALLANA, CAMISETA (P)",
+      "por_nombre_cientifico": "Parapsettus panamensis",
+      "por_tipo": "PESCADOS"
+    },
+    {
+      "por_nombres_comunes": "DELFÍN",
+      "por_nombre_cientifico": "Delphinus sp",
+      "por_tipo": "PESCADOS"
+    },
+    {
+      "por_nombres_comunes": "DELFIN DE RISO",
+      "por_nombre_cientifico": "Grampus griseus",
+      "por_tipo": "PESCADOS"
+    },
+    {
+      "por_nombres_comunes": "DIABLICO",
+      "por_nombre_cientifico": "Pontinus sierra",
+      "por_tipo": "PESCADOS"
+    },
+    {
+      "por_nombres_comunes": "DONCELLA, PRINCESA",
+      "por_nombre_cientifico": "Hemanthias peruanus",
+      "por_tipo": "PESCADOS"
+    },
+    {
+      "por_nombres_comunes": "DORADO, FORTUNO COLA AMARILLA, PARDO",
+      "por_nombre_cientifico": "Seriola lalandi",
+      "por_tipo": "PESCADOS"
+    },
+    {
+      "por_nombres_comunes": "EMPERADOR",
+      "por_nombre_cientifico": "Luvarus imperialis",
+      "por_tipo": "PESCADOS"
+    },
+    {
+      "por_nombres_comunes": "ERIZO",
+      "por_nombre_cientifico": "Loxechinus albus",
+      "por_tipo": "ESPECIES"
+    },
+    {
+      "por_nombres_comunes": "ESCOLAR",
+      "por_nombre_cientifico": "Lepidocybium flavobrunneum",
+      "por_tipo": "PESCADOS"
+    },
+    {
+      "por_nombres_comunes": "ESCOPELOGADUS",
+      "por_nombre_cientifico": "Scopelogadus mizolepis",
+      "por_tipo": "PESCADOS"
+    },
+    {
+      "por_nombres_comunes": "ESPEJO, JOROBADO",
+      "por_nombre_cientifico": "Selene brevoortii",
+      "por_tipo": "PESCADOS"
+    },
+    {
+      "por_nombres_comunes": "ESPEJO, PAMPANITO, JOROBADITO",
+      "por_nombre_cientifico": "Selene peruviana",
+      "por_tipo": "PESCADOS"
+    },
+    {
+      "por_nombres_comunes": "ESPEJO, RELOJ, JOROBADO",
+      "por_nombre_cientifico": "Selene orstedii",
+      "por_tipo": "PESCADOS"
+    },
+    {
+      "por_nombres_comunes": "ESPERLAN PLATEADO",
+      "por_nombre_cientifico": "Leuroglossus urotranus",
+      "por_tipo": "PESCADOS"
+    },
+    {
+      "por_nombres_comunes": "ESTRELLA DE MAR",
+      "por_nombre_cientifico": "Stichaster sp.",
+      "por_tipo": "PESCADOS"
+    },
+    {
+      "por_nombres_comunes": "EUFAUSIDOS",
+      "por_nombre_cientifico": "Euphausia sp",
+      "por_tipo": "PESCADOS"
+    },
+    {
+      "por_nombres_comunes": "FALSO VOLADOR",
+      "por_nombre_cientifico": "Prionotus stephanophrys",
+      "por_tipo": "PESCADOS"
+    },
+    {
+      "por_nombres_comunes": "FORTUNO",
+      "por_nombre_cientifico": "Seriola rivoliana",
+      "por_tipo": "PESCADOS"
+    },
+    {
+      "por_nombres_comunes": "GALLINAZO, GALLINAZA",
+      "por_nombre_cientifico": "Ophioscion obscurus",
+      "por_tipo": "PESCADOS"
+    },
+    {
+      "por_nombres_comunes": "GATITA, TIBURÓN GATO",
+      "por_nombre_cientifico": "Notorynchus cepedianus",
+      "por_tipo": "PESCADOS"
+    },
+    {
+      "por_nombres_comunes": "GATO MARINO, NUTRIA",
+      "por_nombre_cientifico": "Lutra felina",
+      "por_tipo": "PESCADOS"
+    },
+    {
+      "por_nombres_comunes": "GUAVINA, CORVINA GUAVINA, COLA AMARILLA",
+      "por_nombre_cientifico": "Cynoscion stolzmanni",
+      "por_tipo": "PESCADOS"
+    },
+    {
+      "por_nombres_comunes": "GUITARRA",
+      "por_nombre_cientifico": "Rhinobatos planiceps",
+      "por_tipo": "PESCADOS"
+    },
+    {
+      "por_nombres_comunes": "GUITARRA HOCICO BLANCO",
+      "por_nombre_cientifico": "Pseudobatos leucorhynchus",
+      "por_tipo": "PESCADOS"
+    },
+    {
+      "por_nombres_comunes": "GUITARRA CON BANDAS",
+      "por_nombre_cientifico": "Zapteryx exasperata",
+      "por_tipo": "PESCADOS"
+    },
+    {
+      "por_nombres_comunes": "IGUANA MARINA",
+      "por_nombre_cientifico": "Synodus Scituliceps",
+      "por_tipo": "PESCADOS"
+    },
+    {
+      "por_nombres_comunes": "JAIVA, JAIVA LIMÓN",
+      "por_nombre_cientifico": "Cancer porteri",
+      "por_tipo": "PESCADOS"
+    },
+    {
+      "por_nombres_comunes": "JAIVA MARRON, JAIVA",
+      "por_nombre_cientifico": "Portunus asper",
+      "por_tipo": "PESCADOS"
+    },
+    {
+      "por_nombres_comunes": "JAIVA PACO",
+      "por_nombre_cientifico": "Platymera gaudichaudii",
+      "por_tipo": "PESCADOS"
+    },
+    {
+      "por_nombres_comunes": "JAIVA, JAIVA GIGANTE, JAIVA AZUL",
+      "por_nombre_cientifico": "Callinectes toxotes",
+      "por_tipo": "PESCADOS"
+    },
+    {
+      "por_nombres_comunes": "JAIVA, JAIVA VERDE",
+      "por_nombre_cientifico": "Callinectes arcuatus",
+      "por_tipo": "PESCADOS"
+    },
+    {
+      "por_nombres_comunes": "JERGUILLA, LEONORA, ÑOÑORA",
+      "por_nombre_cientifico": "Aplodactylus punctatus",
+      "por_tipo": "PESCADOS"
+    },
+    {
+      "por_nombres_comunes": "JUREL FINO, JURELILLO",
+      "por_nombre_cientifico": "Decapterus macrosoma",
+      "por_tipo": "PESCADOS"
+    },
+    {
+      "por_nombres_comunes": "JUREL OJÓN",
+      "por_nombre_cientifico": "Selar crumenophthalmus",
+      "por_tipo": "PESCADOS"
+    },
+    {
+      "por_nombres_comunes": "JUREL, FUREL, CAIREL",
+      "por_nombre_cientifico": "Trachurus murphyi",
+      "por_tipo": "PESCADOS"
+    },
+    {
+      "por_nombres_comunes": "JURELETA, COCINERO ÑATO, CHUMBO",
+      "por_nombre_cientifico": "Caranx caninus",
+      "por_tipo": "PESCADOS"
+    },
+    {
+      "por_nombres_comunes": "LANGOSTA",
+      "por_nombre_cientifico": "Panulirus gracilis",
+      "por_tipo": "MARISCOS"
+    },
+    {
+      "por_nombres_comunes": "LANGOSTINO",
+      "por_nombre_cientifico": "Litopenaeus spp.",
+      "por_tipo": "MARISCOS"
+    },
+    {
+      "por_nombres_comunes": "LANGOSTINO AMARILLO",
+      "por_nombre_cientifico": "Protrachypene precipua",
+      "por_tipo": "MARISCOS"
+    },
+    {
+      "por_nombres_comunes": "LANGOSTINO AZUL",
+      "por_nombre_cientifico": "Penaeus stylirostris",
+      "por_tipo": "MARISCOS"
+    },
+    {
+      "por_nombres_comunes": "LANGOSTINO BLANCO 1",
+      "por_nombre_cientifico": "Penaeus vannamei",
+      "por_tipo": "MARISCOS"
+    },
+    {
+      "por_nombres_comunes": "LANGOSTINO BLANCO 2",
+      "por_nombre_cientifico": "Penaeus occidentalis",
+      "por_tipo": "MARISCOS"
+    },
+    {
+      "por_nombres_comunes": "LANGOSTINO CAFÉ",
+      "por_nombre_cientifico": "Penaeus californiensis",
+      "por_tipo": "MARISCOS"
+    },
+    {
+      "por_nombres_comunes": "LANGOSTINO CAPACHUDO",
+      "por_nombre_cientifico": "Sicyonia picta",
+      "por_tipo": "MARISCOS"
+    },
+    {
+      "por_nombres_comunes": "LANGOSTINO CASCARA DURA",
+      "por_nombre_cientifico": "Sicyonia disdorsalis",
+      "por_tipo": "MARISCOS"
+    },
+    {
+      "por_nombres_comunes": "LANGOSTINO CEBRA",
+      "por_nombre_cientifico": "Rimapenaeus fuscina",
+      "por_tipo": "MARISCOS"
+    },
+    {
+      "por_nombres_comunes": "LANGOSTINO POMADA",
+      "por_nombre_cientifico": "Xiphopenaeus spp.",
+      "por_tipo": "MARISCOS"
+    },
+    {
+      "por_nombres_comunes": "LANGOSTINO ROJO",
+      "por_nombre_cientifico": "Penaeus brevirostris",
+      "por_tipo": "MARISCOS"
+    },
+    {
+      "por_nombres_comunes": "LANGOSTINO TIGRE",
+      "por_nombre_cientifico": "Rimapenaeus byrdi",
+      "por_tipo": "MARISCOS"
+    },
+    {
+      "por_nombres_comunes": "LANGOSTINOS",
+      "por_nombre_cientifico": "Pennaeus sp",
+      "por_tipo": "MARISCOS"
+    },
+    {
+      "por_nombres_comunes": "LAPA",
+      "por_nombre_cientifico": "Fissurella sp.",
+      "por_tipo": "MARISCOS"
+    },
+    {
+      "por_nombres_comunes": "LENGUADO  ROSADO",
+      "por_nombre_cientifico": "Paralichthys woolmani",
+      "por_tipo": "PESCADOS"
+    },
+    {
+      "por_nombres_comunes": "LENGUADO, LENGUADO COMÚN",
+      "por_nombre_cientifico": "Paralichthys adspersus",
+      "por_tipo": "PESCADOS"
+    },
+    {
+      "por_nombres_comunes": "LENGUADO CON CANINOS",
+      "por_nombre_cientifico": "Cyclopsetta querna",
+      "por_tipo": "PESCADOS"
+    },
+    {
+      "por_nombres_comunes": "LENGUADO DE BOCA GRANDE, LENGUADO BOCON",
+      "por_nombre_cientifico": "Citharichthys gilberti",
+      "por_tipo": "PESCADOS"
+    },
+    {
+      "por_nombres_comunes": "LENGUADO DE CUATRO OCELOS",
+      "por_nombre_cientifico": "Hippoglossina tetrophthalma",
+      "por_tipo": "PESCADOS"
+    },
+    {
+      "por_nombres_comunes": "LENGUADO OJON",
+      "por_nombre_cientifico": "Hippoglossina bollmani",
+      "por_tipo": "PESCADOS"
+    },
+    {
+      "por_nombres_comunes": "LENGUADO OJON, LENGUADO",
+      "por_nombre_cientifico": "Hippoglossina macrops",
+      "por_tipo": "PESCADOS"
+    },
+    {
+      "por_nombres_comunes": "LENGUADO REDONDO",
+      "por_nombre_cientifico": "Achirus fimbriatus",
+      "por_tipo": "PESCADOS"
+    },
+    {
+      "por_nombres_comunes": "LENGUADO TRES OCELOS",
+      "por_nombre_cientifico": "Ancylopsetta dendritica",
+      "por_tipo": "PESCADOS"
+    },
+    {
+      "por_nombres_comunes": "LENGUADO, LENGUADO BOCA CHICA",
+      "por_nombre_cientifico": "Etropus spp.",
+      "por_tipo": "PESCADOS"
+    },
+    {
+      "por_nombres_comunes": "LENGÜETA",
+      "por_nombre_cientifico": "Symphurus sechurae",
+      "por_tipo": "PESCADOS"
+    },
+    {
+      "por_nombres_comunes": "LENGÜETA, LENGUADO",
+      "por_nombre_cientifico": "Etropus ectenes",
+      "por_tipo": "PESCADOS"
+    },
+    {
+      "por_nombres_comunes": "LIEBRE DE MAR",
+      "por_nombre_cientifico": "Aplysia juliana",
+      "por_tipo": "PESCADOS"
+    },
+    {
+      "por_nombres_comunes": "LISA PLATEADA",
+      "por_nombre_cientifico": "Mugil curema",
+      "por_tipo": "PESCADOS"
+    },
+    {
+      "por_nombres_comunes": "LISA, LISA COMÚN, COMEBARRO",
+      "por_nombre_cientifico": "Mugil cephalus",
+      "por_tipo": "PESCADOS"
+    },
+    {
+      "por_nombres_comunes": "LOBO MARINO",
+      "por_nombre_cientifico": "Otaria byronia",
+      "por_tipo": "PESCADOS"
+    },
+    {
+      "por_nombres_comunes": "LOCO, TROMPUDO, DELFIN COMUN",
+      "por_nombre_cientifico": "Delphinus Capensis",
+      "por_tipo": "PESCADOS"
+    },
+    {
+      "por_nombres_comunes": "LORNA, CHOLO, RONCACHO",
+      "por_nombre_cientifico": "Callaus deliciosa ",
+      "por_tipo": "PESCADOS"
+    },
+    {
+      "por_nombres_comunes": "LORO DE MAR, PEZ LORO",
+      "por_nombre_cientifico": "Scarus ghobban",
+      "por_tipo": "PESCADOS"
+    },
+    {
+      "por_nombres_comunes": "LUNA REAL, PEZ SOL, OPAH",
+      "por_nombre_cientifico": "Lampris guttatus",
+      "por_tipo": "PESCADOS"
+    },
+    {
+      "por_nombres_comunes": "MACHA",
+      "por_nombre_cientifico": "Mesodesma donacium",
+      "por_tipo": "MARISCOS"
+    },
+    {
+      "por_nombres_comunes": "MACHETE DE HEBRA",
+      "por_nombre_cientifico": "Opisthonema libertate",
+      "por_tipo": "PESCADOS"
+    },
+    {
+      "por_nombres_comunes": "MACHETE, MACHETILLO",
+      "por_nombre_cientifico": "Ethmidium maculatum",
+      "por_tipo": "PESCADOS"
+    },
+    {
+      "por_nombres_comunes": "MANTA",
+      "por_nombre_cientifico": "Manta hamiltoni, Mobula lucasana",
+      "por_tipo": "PESCADOS"
+    },
+    {
+      "por_nombres_comunes": "MANTA DIABLO",
+      "por_nombre_cientifico": "Mobula mobular",
+      "por_tipo": "PESCADOS"
+    },
+    {
+      "por_nombres_comunes": "MANTA, MANTA RAYA",
+      "por_nombre_cientifico": "Mobula birostris",
+      "por_tipo": "PESCADOS"
+    },
+    {
+      "por_nombres_comunes": "MARAÑO DE PEÑA, CARAJITO",
+      "por_nombre_cientifico": "Serranus huascari",
+      "por_tipo": "PESCADOS"
+    },
+    {
+      "por_nombres_comunes": "MARIPOSA",
+      "por_nombre_cientifico": "Chaetodon humeralis",
+      "por_tipo": "PESCADOS"
+    },
+    {
+      "por_nombres_comunes": "MAROTILLA, SARGO DEL NORTE",
+      "por_nombre_cientifico": "Calamus brachysomus",
+      "por_tipo": "PESCADOS"
+    },
+    {
+      "por_nombres_comunes": "MARRAJO",
+      "por_nombre_cientifico": "Lamna nasus",
+      "por_tipo": "PESCADOS"
+    },
+    {
+      "por_nombres_comunes": "MARUCHA",
+      "por_nombre_cientifico": "Donax marincovichi",
+      "por_tipo": "MARISCOS"
+    },
+    {
+      "por_nombres_comunes": "MEJILLON",
+      "por_nombre_cientifico": "Glycymeris ovata",
+      "por_tipo": "PESCADOS"
+    },
+    {
+      "por_nombres_comunes": "MELVA, BARRILETE NEGRO",
+      "por_nombre_cientifico": "Auxis thazard",
+      "por_tipo": "PESCADOS"
+    },
+    {
+      "por_nombres_comunes": "MERLÍN AZUL",
+      "por_nombre_cientifico": "Makaira mazara",
+      "por_tipo": "PESCADOS"
+    },
+    {
+      "por_nombres_comunes": "MERLIN NEGRO, MERLIN, AGUJA",
+      "por_nombre_cientifico": "Istiompax indica",
+      "por_tipo": "PESCADOS"
+    },
+    {
+      "por_nombres_comunes": "MERLÍN RAYADO",
+      "por_nombre_cientifico": "Kajikia audax",
+      "por_tipo": "PESCADOS"
+    },
+    {
+      "por_nombres_comunes": "MERLUZA, PESCADILLA",
+      "por_nombre_cientifico": "Merluccius gayi peruanus",
+      "por_tipo": "PESCADOS"
+    },
+    {
+      "por_nombres_comunes": "MERO COLORADO, MERO ROJO",
+      "por_nombre_cientifico": "Hyporthodus acanthistius",
+      "por_tipo": "PESCADOS"
+    },
+    {
+      "por_nombres_comunes": "MERO JABÓN, MERO MOTEADO",
+      "por_nombre_cientifico": "Epinephelus analogus",
+      "por_tipo": "PESCADOS"
+    },
+    {
+      "por_nombres_comunes": "MERO MURIQUE, MURIQUE",
+      "por_nombre_cientifico": "Epinephelus labriformis",
+      "por_tipo": "PESCADOS"
+    },
+    {
+      "por_nombres_comunes": "MERO NEGRO, MERO DE PEÑA",
+      "por_nombre_cientifico": "Mycteroperca xenarcha",
+      "por_tipo": "PESCADOS"
+    },
+    {
+      "por_nombres_comunes": "MERO OJO CHICO",
+      "por_nombre_cientifico": "Epinephelus itajara",
+      "por_tipo": "PESCADOS"
+    },
+    {
+      "por_nombres_comunes": "MERO PESCADO, MERO PINTADO",
+      "por_nombre_cientifico": "Hyporthodus niphobles",
+      "por_tipo": "PESCADOS"
+    },
+    {
+      "por_nombres_comunes": "MERO, CURACA, CHINO",
+      "por_nombre_cientifico": "Medialuna ancietae",
+      "por_tipo": "PESCADOS"
+    },
+    {
+      "por_nombres_comunes": "MIRADOR DE ESTRELLAS, MIRAESTRELLAS",
+      "por_nombre_cientifico": "Astroscopus zephyreus",
+      "por_tipo": "PESCADOS"
+    },
+    {
+      "por_nombres_comunes": "MIS-MIS, MISHO, BOBO, FARRABUTO",
+      "por_nombre_cientifico": "Menticirrhus ophicephalus",
+      "por_tipo": "PESCADOS"
+    },
+    {
+      "por_nombres_comunes": "MOJARRA ALETA DE BANDERA",
+      "por_nombre_cientifico": "Eucinostomus currani",
+      "por_tipo": "PESCADOS"
+    },
+    {
+      "por_nombres_comunes": "MOJARRILLA, MOJARRILLA COMÚN, CHIRINO",
+      "por_nombre_cientifico": "Stellifer minor",
+      "por_tipo": "PESCADOS"
+    },
+    {
+      "por_nombres_comunes": "MONENGUE",
+      "por_nombre_cientifico": "Dormitator latifrons",
+      "por_tipo": "PESCADOS"
+    },
+    {
+      "por_nombres_comunes": "MONO",
+      "por_nombre_cientifico": "Sarda orientalis",
+      "por_tipo": "PESCADOS"
+    },
+    {
+      "por_nombres_comunes": "MORENA",
+      "por_nombre_cientifico": "Muraena sp., Gymnothorax sp.",
+      "por_tipo": "PESCADOS"
+    },
+    {
+      "por_nombres_comunes": "MUCHACHITA, CHULA, PEZ ZORRO",
+      "por_nombre_cientifico": "Menticirrhus elongatus",
+      "por_tipo": "PESCADOS"
+    },
+    {
+      "por_nombres_comunes": "MUY MUY",
+      "por_nombre_cientifico": "Emerita analoga",
+      "por_tipo": "MARISCOS"
+    },
+    {
+      "por_nombres_comunes": "NAVAJA",
+      "por_nombre_cientifico": "Ensis macha",
+      "por_tipo": "MARISCOS"
+    },
+    {
+      "por_nombres_comunes": "NAVAJA, CHAVETA, NAVAJUELA, PICO DE PATO",
+      "por_nombre_cientifico": "Tagelus dombeii",
+      "por_tipo": "MARISCOS"
+    },
+    {
+      "por_nombres_comunes": "NEGRO, NEGRILLO",
+      "por_nombre_cientifico": "Graus nigra",
+      "por_tipo": "PESCADOS"
+    },
+    {
+      "por_nombres_comunes": "OFENSIVO, RONCO",
+      "por_nombre_cientifico": "Conodon serrifer",
+      "por_tipo": "PESCADOS"
+    },
+    {
+      "por_nombres_comunes": "OJO DE UVA, OJÓN, PAPAÑAGUA",
+      "por_nombre_cientifico": "Hemilutjanus macrophthalmos",
+      "por_tipo": "PESCADOS"
+    },
+    {
+      "por_nombres_comunes": "OJON RAYADO",
+      "por_nombre_cientifico": "Xenichthys xanti",
+      "por_tipo": "PESCADOS"
+    },
+    {
+      "por_nombres_comunes": "OLIVA",
+      "por_nombre_cientifico": "Oliva peruviana",
+      "por_tipo": "PESCADOS"
+    },
+    {
+      "por_nombres_comunes": "OSTION, OSTRA",
+      "por_nombre_cientifico": "Spondylus limbatus",
+      "por_tipo": "PESCADOS"
+    },
+    {
+      "por_nombres_comunes": "OSTRA, OSTION",
+      "por_nombre_cientifico": "Striostrea prismatica",
+      "por_tipo": "PESCADOS"
+    },
+    {
+      "por_nombres_comunes": "CHILINDRINA, PAMPANITO PINTADO",
+      "por_nombre_cientifico": "Stromateus stellatus",
+      "por_tipo": "PESCADOS"
+    },
+    {
+      "por_nombres_comunes": "PÁMPANO DE HEBRA",
+      "por_nombre_cientifico": "Carangoides otrynter",
+      "por_tipo": "PESCADOS"
+    },
+    {
+      "por_nombres_comunes": "PÁMPANO FINO",
+      "por_nombre_cientifico": "Trachinotus rhodopus",
+      "por_tipo": "PESCADOS"
+    },
+    {
+      "por_nombres_comunes": "PÁMPANO TORO",
+      "por_nombre_cientifico": "Trachinotus kennedyi",
+      "por_tipo": "PESCADOS"
+    },
+    {
+      "por_nombres_comunes": "PÁMPANO, PAMPANITO, COMETRAPO",
+      "por_nombre_cientifico": "Trachinotus paitensis",
+      "por_tipo": "PESCADOS"
+    },
+    {
+      "por_nombres_comunes": "PÁRAMO, COMETRAPO",
+      "por_nombre_cientifico": "Oligoplites altus",
+      "por_tipo": "PESCADOS"
+    },
+    {
+      "por_nombres_comunes": "PARDO, FORTUNO",
+      "por_nombre_cientifico": "Seriola peruana",
+      "por_tipo": "PESCADOS"
+    },
+    {
+      "por_nombres_comunes": "PARDO, PEZ HOJITA, CITARITA, CHUYES, RIKI RIKI, PARBO",
+      "por_nombre_cientifico": "Chloroscombrus orqueta",
+      "por_tipo": "PESCADOS"
+    },
+    {
+      "por_nombres_comunes": "PARGO, PARGO ROJO, PARAMO",
+      "por_nombre_cientifico": "Lutjanus jordani",
+      "por_tipo": "PESCADOS"
+    },
+    {
+      "por_nombres_comunes": "PARGO CON MANCHA",
+      "por_nombre_cientifico": "Lutjanus guttatus",
+      "por_tipo": "PESCADOS"
+    },
+    {
+      "por_nombres_comunes": "PASTELILLO, WIRI WIRI",
+      "por_nombre_cientifico": "Psammobatis brevicaudatus",
+      "por_tipo": "PESCADOS"
+    },
+    {
+      "por_nombres_comunes": "PATA SECA, ATUN PEQUEÑO",
+      "por_nombre_cientifico": "Euthynnus alletteratus",
+      "por_tipo": "PESCADOS"
+    },
+    {
+      "por_nombres_comunes": "PEJE BLANCO, CABEZÓN, PEJE",
+      "por_nombre_cientifico": "Caulolatilus affinis",
+      "por_tipo": "PESCADOS"
+    },
+    {
+      "por_nombres_comunes": "PEJE FINO",
+      "por_nombre_cientifico": "Caulolatilus princeps",
+      "por_tipo": "PESCADOS"
+    },
+    {
+      "por_nombres_comunes": "PEJE GALLO, ÑATO",
+      "por_nombre_cientifico": "Callorhinchus callorynchus",
+      "por_tipo": "PESCADOS"
+    },
+    {
+      "por_nombres_comunes": "PEJE PERRO, VIEJA",
+      "por_nombre_cientifico": "Semicossyphus darwini",
+      "por_tipo": "PESCADOS"
+    },
+    {
+      "por_nombres_comunes": "PEJE SAPO, CHINGUILLO",
+      "por_nombre_cientifico": "Sicyaces sanguineus",
+      "por_tipo": "PESCADOS"
+    },
+    {
+      "por_nombres_comunes": "PEJEGATO, PEJEGATO OSCURO",
+      "por_nombre_cientifico": "Bythaelurus canescens",
+      "por_tipo": "PESCADOS"
+    },
+    {
+      "por_nombres_comunes": "PEJERREY",
+      "por_nombre_cientifico": "Odontesthes regia",
+      "por_tipo": "PESCADOS"
+    },
+    {
+      "por_nombres_comunes": "PELILLO",
+      "por_nombre_cientifico": "Gracilariopsis lemaneiformis",
+      "por_tipo": "PESCADOS"
+    },
+    {
+      "por_nombres_comunes": "PEPINO DE MAR, ANCOCO",
+      "por_nombre_cientifico": "Patallus mollis",
+      "por_tipo": "PESCADOS"
+    },
+    {
+      "por_nombres_comunes": "PEPINO DE MAR",
+      "por_nombre_cientifico": "Holoturia sp.",
+      "por_tipo": "ESPECIES"
+    },
+    {
+      "por_nombres_comunes": "PEPINO DE MAR",
+      "por_nombre_cientifico": "Isostichopus fuscus",
+      "por_tipo": "ESPECIES"
+    },
+    {
+      "por_nombres_comunes": "PERCEBES",
+      "por_nombre_cientifico": "Pollicipes elegans",
+      "por_tipo": "PESCADOS"
+    },
+    {
+      "por_nombres_comunes": "PERICHE",
+      "por_nombre_cientifico": "Diapterus peruvianus",
+      "por_tipo": "PESCADOS"
+    },
+    {
+      "por_nombres_comunes": "PERICO, DORADO",
+      "por_nombre_cientifico": "Coryphaena hippurus",
+      "por_tipo": "PESCADOS"
+    },
+    {
+      "por_nombres_comunes": "PERICO, DORADO ENANO",
+      "por_nombre_cientifico": "Coryphaena equiselis",
+      "por_tipo": "PESCADOS"
+    },
+    {
+      "por_nombres_comunes": "PEZ ACEITOSO",
+      "por_nombre_cientifico": "Ruvettus pretiosus",
+      "por_tipo": "PESCADOS"
+    },
+    {
+      "por_nombres_comunes": "PEZ AGUJA, BELONA",
+      "por_nombre_cientifico": "Strongylura scapularis",
+      "por_tipo": "PESCADOS"
+    },
+    {
+      "por_nombres_comunes": "PEZ AGUJILLA, BALAO, AGUJILLA ROJA",
+      "por_nombre_cientifico": "Hemiramphus saltator",
+      "por_tipo": "PESCADOS"
+    },
+    {
+      "por_nombres_comunes": "PEZ CHOCLO, CHOPA",
+      "por_nombre_cientifico": "Sectator ocyurus",
+      "por_tipo": "PESCADOS"
+    },
+    {
+      "por_nombres_comunes": "PEZ CHOCLO, RONCO OJON, OFENSIVO",
+      "por_nombre_cientifico": "Conodon macrops",
+      "por_tipo": "PESCADOS"
+    },
+    {
+      "por_nombres_comunes": "PEZ CINTA, PEZ SABLE,CORREA",
+      "por_nombre_cientifico": "Trichiurus lepturus",
+      "por_tipo": "PESCADOS"
+    },
+    {
+      "por_nombres_comunes": "PEZ CORNETA, PEZ FLAUTA",
+      "por_nombre_cientifico": "Fistularia corneta",
+      "por_tipo": "PESCADOS"
+    },
+    {
+      "por_nombres_comunes": "PEZ DIABLO, CHAMACA",
+      "por_nombre_cientifico": "Scorpaena histrio",
+      "por_tipo": "PESCADOS"
+    },
+    {
+      "por_nombres_comunes": "PEZ ESPADA, ESPADA",
+      "por_nombre_cientifico": "Xiphias gladius",
+      "por_tipo": "PESCADOS"
+    },
+    {
+      "por_nombres_comunes": "PEZ FRAILE",
+      "por_nombre_cientifico": "Aphos porosus",
+      "por_tipo": "PESCADOS"
+    },
+    {
+      "por_nombres_comunes": "PEZ HACHA",
+      "por_nombre_cientifico": "Argyropelecus olfersii",
+      "por_tipo": "PESCADOS"
+    },
+    {
+      "por_nombres_comunes": "PEZ HACHA",
+      "por_nombre_cientifico": "Sternoptyx diaphana",
+      "por_tipo": "PESCADOS"
+    },
+    {
+      "por_nombres_comunes": "PEZ LIJA, PEZ LIMA, UNICORNIO",
+      "por_nombre_cientifico": "Aluterus monoceros",
+      "por_tipo": "PESCADOS"
+    },
+    {
+      "por_nombres_comunes": "PEZ MEDUSA",
+      "por_nombre_cientifico": "Cubiceps caeruleus",
+      "por_tipo": "PESCADOS"
+    },
+    {
+      "por_nombres_comunes": "PEZ MEDUSA",
+      "por_nombre_cientifico": "Cubiceps capensis",
+      "por_tipo": "PESCADOS"
+    },
+    {
+      "por_nombres_comunes": "PEZ MEDUSA",
+      "por_nombre_cientifico": "Cubiceps pauciradiatus",
+      "por_tipo": "PESCADOS"
+    },
+    {
+      "por_nombres_comunes": "PEZ PILOTO",
+      "por_nombre_cientifico": "Naucrates ductor",
+      "por_tipo": "PESCADOS"
+    },
+    {
+      "por_nombres_comunes": "PEZ RASTRILLO",
+      "por_nombre_cientifico": "Pristis pristis",
+      "por_tipo": "PESCADOS"
+    },
+    {
+      "por_nombres_comunes": "PEZ TORPEDO, AGUJA TIPO 4",
+      "por_nombre_cientifico": "Elops saurus affinis",
+      "por_tipo": "PESCADOS"
+    },
+    {
+      "por_nombres_comunes": "PEZ VELA, VELA",
+      "por_nombre_cientifico": "Istiophorus platypterus",
+      "por_tipo": "PESCADOS"
+    },
+    {
+      "por_nombres_comunes": "PEZ VOLADOR",
+      "por_nombre_cientifico": "Cheilopogon heterurus / Cypselurus heterurus",
+      "por_tipo": "PESCADOS"
+    },
+    {
+      "por_nombres_comunes": "PEZ VOLADOR HOCICON, AGUJA TIPO 3",
+      "por_nombre_cientifico": "Fodiator rostratus",
+      "por_tipo": "PESCADOS"
+    },
+    {
+      "por_nombres_comunes": "PEZ VOLADOR, LISA VOLADORA",
+      "por_nombre_cientifico": "Hirundichthys rondeletii,H.speculiger",
+      "por_tipo": "PESCADOS"
+    },
+    {
+      "por_nombres_comunes": "PEZ ZANAHORIA",
+      "por_nombre_cientifico": "Fowlerichthys avalonis",
+      "por_tipo": "PESCADOS"
+    },
+    {
+      "por_nombres_comunes": "PICUDA, AGUJA, AGUJÓN SABLE",
+      "por_nombre_cientifico": "Ablennes hians",
+      "por_tipo": "PESCADOS"
+    },
+    {
+      "por_nombres_comunes": "PINTADILLA, PINTACHA",
+      "por_nombre_cientifico": "Cheilodactylus variegatus",
+      "por_tipo": "PESCADOS"
+    },
+    {
+      "por_nombres_comunes": "PLATIJA",
+      "por_nombre_cientifico": "Bothus constellatus",
+      "por_tipo": "PESCADOS"
+    },
+    {
+      "por_nombres_comunes": "PLUMA, CABEZA DE ZORRO",
+      "por_nombre_cientifico": "Cratinus agassizi",
+      "por_tipo": "PESCADOS"
+    },
+    {
+      "por_nombres_comunes": "PLUMILLA, PLUMERO",
+      "por_nombre_cientifico": "Nematistius pectoralis",
+      "por_tipo": "PESCADOS"
+    },
+    {
+      "por_nombres_comunes": "POCOCHO DE MAR, BERIQUETE",
+      "por_nombre_cientifico": "Nicholsina denticulata",
+      "por_tipo": "PESCADOS"
+    },
+    {
+      "por_nombres_comunes": "POLLA, POLLA RAYADA",
+      "por_nombre_cientifico": "Umbrina xanti",
+      "por_tipo": "PESCADOS"
+    },
+    {
+      "por_nombres_comunes": "POTA, CALAMAR GIGANTE",
+      "por_nombre_cientifico": "Dosidicus gigas",
+      "por_tipo": "MARISCOS"
+    },
+    {
+      "por_nombres_comunes": "PRINCESA",
+      "por_nombre_cientifico": "Hemanthias signifer",
+      "por_tipo": "PESCADOS"
+    },
+    {
+      "por_nombres_comunes": "PULPO",
+      "por_nombre_cientifico": "Octopus mimus",
+      "por_tipo": "MARISCOS"
+    },
+    {
+      "por_nombres_comunes": "QUIMERA",
+      "por_nombre_cientifico": "Hydrolagus sp.",
+      "por_tipo": "PESCADOS"
+    },
+    {
+      "por_nombres_comunes": "RATON",
+      "por_nombre_cientifico": "Coelorinchus canus",
+      "por_tipo": "PESCADOS"
+    },
+    {
+      "por_nombres_comunes": "RAYA AGUILA, PEJE AGUILA",
+      "por_nombre_cientifico": "Myliobatis chilensis",
+      "por_tipo": "PESCADOS"
+    },
+    {
+      "por_nombres_comunes": "RAYA AGUILA, RAYA",
+      "por_nombre_cientifico": "Myliobatis peruvianus",
+      "por_tipo": "PESCADOS"
+    },
+    {
+      "por_nombres_comunes": "RAYA BATEA, BATANA",
+      "por_nombre_cientifico": "Dasyatis brevis",
+      "por_tipo": "PESCADOS"
+    },
+    {
+      "por_nombres_comunes": "RAYA BRUJA",
+      "por_nombre_cientifico": "Raja velezi",
+      "por_tipo": "PESCADOS"
+    },
+    {
+      "por_nombres_comunes": "RAYA CON ESPINAS, TAPADERA",
+      "por_nombre_cientifico": "Urotrygon sp.",
+      "por_tipo": "PESCADOS"
+    },
+    {
+      "por_nombres_comunes": "RAYA COLUDA",
+      "por_nombre_cientifico": "Dasyatis longus",
+      "por_tipo": "PESCADOS"
+    },
+    {
+      "por_nombres_comunes": "RAYA ELECTRICA",
+      "por_nombre_cientifico": "Narcine entemedor",
+      "por_tipo": "PESCADOS"
+    },
+    {
+      "por_nombres_comunes": "RAYA ESPINOSA",
+      "por_nombre_cientifico": "Psamobatis caudispina",
+      "por_tipo": "PESCADOS"
+    },
+    {
+      "por_nombres_comunes": "RAYA MARIPOSA, RAYA PAPEL, RAYA TUYO",
+      "por_nombre_cientifico": "Gymnura marmorata",
+      "por_tipo": "PESCADOS"
+    },
+    {
+      "por_nombres_comunes": "RAYA PICO DE PATO",
+      "por_nombre_cientifico": "Aetobatus narinari",
+      "por_tipo": "PESCADOS"
+    },
+    {
+      "por_nombres_comunes": "RAYA SICODELICA",
+      "por_nombre_cientifico": "Urolophus sp.",
+      "por_tipo": "PESCADOS"
+    },
+    {
+      "por_nombres_comunes": "RAYA, BATEA NEGRA",
+      "por_nombre_cientifico": "Dasyatis sp., Myliobatis sp.",
+      "por_tipo": "PESCADOS"
+    },
+    {
+      "por_nombres_comunes": "REMORA",
+      "por_nombre_cientifico": "Remora sp",
+      "por_tipo": "PESCADOS"
+    },
+    {
+      "por_nombres_comunes": "RÓBALO",
+      "por_nombre_cientifico": "Robaloscion wieneri",
+      "por_tipo": "PESCADOS"
+    },
+    {
+      "por_nombres_comunes": "ROBALITO DE ALETA DORADA, ROBALITO",
+      "por_nombre_cientifico": "Centropomus robalito",
+      "por_tipo": "PESCADOS"
+    },
+    {
+      "por_nombres_comunes": "RÓBALO",
+      "por_nombre_cientifico": "Centropomus unionensis",
+      "por_tipo": "PESCADOS"
+    },
+    {
+      "por_nombres_comunes": "RÓBALO, LUBINA, ROBALÍTO",
+      "por_nombre_cientifico": "Sciaena starksi",
+      "por_tipo": "PESCADOS"
+    },
+    {
+      "por_nombres_comunes": "RÓBALO, ROBALÍTO",
+      "por_nombre_cientifico": "Centropomus nigrescens",
+      "por_tipo": "PESCADOS"
+    },
+    {
+      "por_nombres_comunes": "ROLLIZO, CAMOTE",
+      "por_nombre_cientifico": "Prolatilus jugularis",
+      "por_tipo": "PESCADOS"
+    },
+    {
+      "por_nombres_comunes": "RONCADOR",
+      "por_nombre_cientifico": "Haemulopsis leuciscus",
+      "por_tipo": "PESCADOS"
+    },
+    {
+      "por_nombres_comunes": "RONCADOR RAYADO, ALIANZA, SUCO RAYADO",
+      "por_nombre_cientifico": "Pareques lanfeari",
+      "por_tipo": "PESCADOS"
+    },
+    {
+      "por_nombres_comunes": "RONCADOR, CORVINA ÑATA",
+      "por_nombre_cientifico": "Elattarchus archidium",
+      "por_tipo": "PESCADOS"
+    },
+    {
+      "por_nombres_comunes": "SABLE, SABLE NEGRO",
+      "por_nombre_cientifico": "Lepidopus sp.",
+      "por_tipo": "PESCADOS"
+    },
+    {
+      "por_nombres_comunes": "SAMASA, ANCHOVETA BLANCA",
+      "por_nombre_cientifico": "Anchoa nasus",
+      "por_tipo": "PESCADOS"
+    },
+    {
+      "por_nombres_comunes": "SAN PEDRANO, DONCELLA",
+      "por_nombre_cientifico": "Halichoeres dispilus",
+      "por_tipo": "PESCADOS"
+    },
+    {
+      "por_nombres_comunes": "SAN PEDRO ROJO, CHIRO",
+      "por_nombre_cientifico": "Pseudupeneus grandisquamis",
+      "por_tipo": "PESCADOS"
+    },
+    {
+      "por_nombres_comunes": "SARDINA",
+      "por_nombre_cientifico": "Sardinops sagax",
+      "por_tipo": "PESCADOS"
+    },
+    {
+      "por_nombres_comunes": "SARDINA REDONDA, MONA",
+      "por_nombre_cientifico": "Etrumeus teres",
+      "por_tipo": "PESCADOS"
+    },
+    {
+      "por_nombres_comunes": "SARGAZO",
+      "por_nombre_cientifico": "Macrocystis pyrifera",
+      "por_tipo": "ESPECIES"
+    },
+    {
+      "por_nombres_comunes": "SARGAZO (ARACANTO)",
+      "por_nombre_cientifico": "Macrocystis sp., Lessonia sp.",
+      "por_tipo": "ESPECIES"
+    },
+    {
+      "por_nombres_comunes": "SARGO DE PEÑA",
+      "por_nombre_cientifico": "Nexilosus latifrons",
+      "por_tipo": "PESCADOS"
+    },
+    {
+      "por_nombres_comunes": "SARGO RAYADO",
+      "por_nombre_cientifico": "Anisotremus taeniatus",
+      "por_tipo": "PESCADOS"
+    },
+    {
+      "por_nombres_comunes": "SEMÁFORO, LINTERNA, OJO DE PLATA, PEJE SOL",
+      "por_nombre_cientifico": "Pristigenys serrula",
+      "por_tipo": "PESCADOS"
+    },
+    {
+      "por_nombres_comunes": "SEMITA",
+      "por_nombre_cientifico": "Microlepidotus brevipinnis",
+      "por_tipo": "PESCADOS"
+    },
+    {
+      "por_nombres_comunes": "SIERRA, VERLE",
+      "por_nombre_cientifico": "Scomberomorus sierra",
+      "por_tipo": "PESCADOS"
+    },
+    {
+      "por_nombres_comunes": "SIERRILLA, PERRITO",
+      "por_nombre_cientifico": "Oligoplites saurus",
+      "por_tipo": "PESCADOS"
+    },
+    {
+      "por_nombres_comunes": "SQUILLA",
+      "por_nombre_cientifico": "Squilla panamensis",
+      "por_tipo": "PESCADOS"
+    },
+    {
+      "por_nombres_comunes": "SUÑO, GATO, TIBURÓN GATO, FANCHO",
+      "por_nombre_cientifico": "Heterodontus quoyi",
+      "por_tipo": "PESCADOS"
+    },
+    {
+      "por_nombres_comunes": "TAMBORÍN",
+      "por_nombre_cientifico": "Sphoeroides annulatus",
+      "por_tipo": "PESCADOS"
+    },
+    {
+      "por_nombres_comunes": "TAMBORÍN",
+      "por_nombre_cientifico": "Sphoeroides sp.",
+      "por_tipo": "PESCADOS"
+    },
+    {
+      "por_nombres_comunes": "TEMBLADERA, RAYA ELÉCTRICA",
+      "por_nombre_cientifico": "Tetronarce tremens",
+      "por_tipo": "PESCADOS"
+    },
+    {
+      "por_nombres_comunes": "TIBURÓN AZUL, CHIRI, TIBURÓN, TINTORERA",
+      "por_nombre_cientifico": "Prionace glauca",
+      "por_tipo": "PESCADOS"
+    },
+    {
+      "por_nombres_comunes": "TIBURÓN BALLENA",
+      "por_nombre_cientifico": "Rhincodon typus",
+      "por_tipo": "PESCADOS"
+    },
+    {
+      "por_nombres_comunes": "TIBURÓN DIAMANTE",
+      "por_nombre_cientifico": "Isurus oxyrinchus",
+      "por_tipo": "PESCADOS"
+    },
+    {
+      "por_nombres_comunes": "TIBURÓN MARTILLO, CRUCETA",
+      "por_nombre_cientifico": "Sphyrna zygaena",
+      "por_tipo": "PESCADOS"
+    },
+    {
+      "por_nombres_comunes": "TIBURÓN NEGRO DORMILON",
+      "por_nombre_cientifico": "Somniosus pacificus",
+      "por_tipo": "PESCADOS"
+    },
+    {
+      "por_nombres_comunes": "TIBURÓN NEGRO ESPINOSO, TIBURON CHAPOTA",
+      "por_nombre_cientifico": "Echinorhinus cookei",
+      "por_tipo": "PESCADOS"
+    },
+    {
+      "por_nombres_comunes": "TIBURÓN ÑATO",
+      "por_nombre_cientifico": "Carcharhinus leucas",
+      "por_tipo": "PESCADOS"
+    },
+    {
+      "por_nombres_comunes": "TIBURÓN PARDO",
+      "por_nombre_cientifico": "Carcharhinus brachyurus",
+      "por_tipo": "PESCADOS"
+    },
+    {
+      "por_nombres_comunes": "TIBURON PARDO, CAZON, TIBURON DE ALETA PUNTA NEGRA",
+      "por_nombre_cientifico": "Carcharhinus limbatus",
+      "por_tipo": "PESCADOS"
+    },
+    {
+      "por_nombres_comunes": "TIBURÓN TIGRE",
+      "por_nombre_cientifico": "Galeocerdo cuvier",
+      "por_tipo": "PESCADOS"
+    },
+    {
+      "por_nombres_comunes": "TIBURÓN ZORRO PELÁGICO",
+      "por_nombre_cientifico": "Alopias pelagicus",
+      "por_tipo": "PESCADOS"
+    },
+    {
+      "por_nombres_comunes": "TIBURÓN ZORRO, PEJE ZORRO",
+      "por_nombre_cientifico": "Alopias vulpinus",
+      "por_tipo": "PESCADOS"
+    },
+    {
+      "por_nombres_comunes": "TOLLO AGUADO, TIBURON NEGRO NARIGON",
+      "por_nombre_cientifico": "Apristurus nasutus",
+      "por_tipo": "PESCADOS"
+    },
+    {
+      "por_nombres_comunes": "TOLLO BLANCO, PIRUCHO",
+      "por_nombre_cientifico": "Mustelus dorsalis",
+      "por_tipo": "PESCADOS"
+    },
+    {
+      "por_nombres_comunes": "TOLLO DE LECHE, TOLLO COMÚN, TOLLO MAMITA",
+      "por_nombre_cientifico": "Mustelus whitneyi",
+      "por_tipo": "PESCADOS"
+    },
+    {
+      "por_nombres_comunes": "TOLLO FINO, TOLLO CON BANDAS, TOLLO LEY",
+      "por_nombre_cientifico": "Mustelus mento",
+      "por_tipo": "PESCADOS"
+    },
+    {
+      "por_nombres_comunes": "TOLLO GATO",
+      "por_nombre_cientifico": "Schroederichthys chilensis",
+      "por_tipo": "PESCADOS"
+    },
+    {
+      "por_nombres_comunes": "TOLLO MANCHADO, TOLLO RARA",
+      "por_nombre_cientifico": "Triakis maculata",
+      "por_tipo": "PESCADOS"
+    },
+    {
+      "por_nombres_comunes": "TONINO, CHANCHO MARINO",
+      "por_nombre_cientifico": "Phocoena spinipinnis",
+      "por_tipo": "PESCADOS"
+    },
+    {
+      "por_nombres_comunes": "TORTUGA AMARILLA, TORTUGA BOBA",
+      "por_nombre_cientifico": "Caretta caretta",
+      "por_tipo": "PESCADOS"
+    },
+    {
+      "por_nombres_comunes": "TORTUGA DE CAREY",
+      "por_nombre_cientifico": "Eretmochelys imbrica",
+      "por_tipo": "PESCADOS"
+    },
+    {
+      "por_nombres_comunes": "TORTUGA GALAPAGOS",
+      "por_nombre_cientifico": "Dermochelys coriacea",
+      "por_tipo": "PESCADOS"
+    },
+    {
+      "por_nombres_comunes": "TORTUGA PICO DE LORO",
+      "por_nombre_cientifico": "Lepidochelys olivacea",
+      "por_tipo": "PESCADOS"
+    },
+    {
+      "por_nombres_comunes": "TORTUGA VERDE",
+      "por_nombre_cientifico": "Chelonia mydas",
+      "por_tipo": "PESCADOS"
+    },
+    {
+      "por_nombres_comunes": "TRAMBOLLO BULDOG",
+      "por_nombre_cientifico": "Kathetostoma averruncus",
+      "por_tipo": "PESCADOS"
+    },
+    {
+      "por_nombres_comunes": "TRAMBOLLO, BOCON, TAMBORETA, RAPE",
+      "por_nombre_cientifico": "Lophiodes caulinaris",
+      "por_tipo": "PESCADOS"
+    },
+    {
+      "por_nombres_comunes": "TRAMBOLLO, TOMOLLO, CHALAPO OJOS",
+      "por_nombre_cientifico": "Labrisomus philippii",
+      "por_tipo": "PESCADOS"
+    },
+    {
+      "por_nombres_comunes": "VIEJA BOCONA",
+      "por_nombre_cientifico": "Pontinus clemensi",
+      "por_tipo": "PESCADOS"
+    },
+    {
+      "por_nombres_comunes": "VIEJA, VIEJA NEGRA",
+      "por_nombre_cientifico": "Bodianus sp.",
+      "por_tipo": "PESCADOS"
+    },
+    {
+      "por_nombres_comunes": "VINCIGUERRIA",
+      "por_nombre_cientifico": "Vinciguerria lucetia",
+      "por_tipo": "PESCADOS"
+    },
+    {
+      "por_nombres_comunes": "VIÑA",
+      "por_nombre_cientifico": "Menticirrhus sp.",
+      "por_tipo": "PESCADOS"
+    },
+    {
+      "por_nombres_comunes": "YUYO, MOCOCHO, CHICOREA DE MAR",
+      "por_nombre_cientifico": "Chondracanthus chamissoi",
+      "por_tipo": "ESPECIES"
+    },
+    {
+      "por_nombres_comunes": "ZIÑO, ANEMONA",
+      "por_nombre_cientifico": "Phymanthea pluvia",
+      "por_tipo": "ESPECIES"
+    },
+    {
+      "por_nombres_comunes": "OVAS DE PEZ VOLADOR",
+      "por_nombre_cientifico": "OVAS DE PEZ VOLADOR",
+      "por_tipo": "OTROS"
+    },
+    {
+      "por_nombres_comunes": "OVAS DE LISA VOLADORA",
+      "por_nombre_cientifico": "OVAS DE LISA VOLADORA",
+      "por_tipo": "OTROS"
+    },
+    {
+      "por_nombres_comunes": "BURI,HAMACHI",
+      "por_nombre_cientifico": "Seriola quinqueradiata",
+      "por_tipo": "PESCADOS"
+    },
+    {
+      "por_nombres_comunes": "TOLLO MANTEQUERO, ÑATO",
+      "por_nombre_cientifico": "Carcharhinus falciformes",
+      "por_tipo": "PESCADOS"
+    }
+  ]
+}
