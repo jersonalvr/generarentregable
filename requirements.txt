@@ -1,4 +1,4 @@
-bs4==4.12.3
+beautifulsoup4==4.12.3
 docx==1.1.2
 docx2pdf==0.1.8
 docxcompose==1.4.0
