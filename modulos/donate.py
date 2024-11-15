@@ -8,7 +8,7 @@ def crear_donation_footer(base_dir):
     
     with footer:
         st.markdown("---")
-        st.header("☕ Buy me a cofee")
+        st.header("☕ Buy me a coffee")
         
         # Tabs for different payment methods
         tab1, tab2, tab3, tab4, tab5 = st.tabs(["Yape", "Depósito Bancario", "Tarjeta", "Otros Métodos", "Crypto"])
